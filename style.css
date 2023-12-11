@@ -1,0 +1,36 @@
+.header-title {
+    font-family: 'Li SK Bishal Unicode';
+    src: url('LiSKBishalUnicode-Italic.woff2') format('woff2'),
+        url('LiSKBishalUnicode-Italic.woff') format('woff');
+    font-weight: 900;
+    font-display: swap;
+}
+.hero-title {
+    font-family: 'Li Sirajee Sanjar Unicode';
+    src: url('LiSirajeeSanjarUnicode-Italic.woff2') format('woff2'),
+        url('LiSirajeeSanjarUnicode-Italic.woff') format('woff');
+    font-weight: 700;
+    font-display: swap;
+}
+.hero-p {
+    font-family: 'Li Ullash RRR Unicode';
+    src: url('LiUllashRRRUnicode.woff2') format('woff2'),
+        url('LiUllashRRRUnicode.woff') format('woff');
+    font-weight: 100;
+    font-display: swap;
+    line-height: 27px;
+    word-spacing: 3px;
+}
+.header-menu-list {
+    font-family: 'Li Sirajee Sanjar Unicode';
+    src: url('LiSirajeeSanjarUnicode-Italic.woff2') format('woff2'),
+        url('LiSirajeeSanjarUnicode-Italic.woff') format('woff');
+    font-weight: 700;
+    font-display: swap;
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    font-size: 15px;
+}
+
+
